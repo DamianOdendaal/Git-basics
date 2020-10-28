@@ -33,4 +33,4 @@ teaching the peeps how git works
 
 
 <h4>Adds content from all *.txt files under Documentation directory and its subdirectories:</h4.>
-               <h3>$ git add some-pushed-files-some-not/\*.txt</h3
+               <h5>$ git add some-pushed-files-some-not/\*.txt</h5>
