@@ -42,5 +42,7 @@ teaching the peeps how git works
 <h4>Example:</h4>
 
 <h5>git commit -m "descriptive message here about commit"</h5>
-<h5>When we use git commit here we add the -m flag which says we can add a commit message</h5>
+<p>When we use git commit here we add the -m flag which says we can add a commit message</p>
 <h5>When we use git commit here we can also add the -a flag which will tell the command to automatically stage all changes</h5>
+<h4>So we can add work and commit in one line by doing:</h4>
+<h5>git commit -am "descriptive message here about commit"</h5>
