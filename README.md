@@ -32,5 +32,5 @@ teaching the peeps how git works
 <h5>git add * or git add -A (this adds everything inside the directory)</h5>
 
 
-·   Adds content from all *.txt files under Documentation directory and its subdirectories:
-               $ git add some-pushed-files-some-not/\*.txt
+<h4>Adds content from all *.txt files under Documentation directory and its subdirectories:</h4.>
+               <h3>$ git add some-pushed-files-some-not/\*.txt</h3
