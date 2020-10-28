@@ -26,7 +26,7 @@ teaching the peeps how git works
 <li>Have content created that you would like to add to your repo</li>
 <li>add content using git add</li>
 </ol>
-<h4>Example</4>
+<h4>Example</4><br/>
 
 git add <filename>  (this adds a specific file and/or directory)
 git add * or git add -A (this adds everything inside the directory)
