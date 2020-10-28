@@ -28,7 +28,7 @@ teaching the peeps how git works
 </ol>
 <h4>Example</4>
 
-<h5>git add <filename>  (this adds a specific file and/or directory)</h5>
+<h5>git add content_to_be_added  (this adds a specific file and/or directory)</h5>
 <h5>git add * or git add -A (this adds everything inside the directory)</h5>
 
 
@@ -46,3 +46,30 @@ teaching the peeps how git works
 <h5>When we use git commit here we can also add the -a flag which will tell the command to automatically stage all changes</h5>
 <h4>So we can add work and commit in one line by doing:</h4>
 <h5>git commit -am "descriptive message here about commit"</h5>
+
+<h1>Starting to work with git branches.  Working with people on a single repository</h1>
+<h3>Creating a new branch to work on using git branch</h3>
+
+<h4>git branch branch-name (this creates a new git branch on this repository)</h4>
+<h3>Listing git branches</h3>
+<h4>git branch -l</h4>
+<h4>git branch -a (List both remote-tracking branches and local branches)</h4>
+
+<h3>Moving between git branches using git checkout</h3>
+<h4>git checkout branch-name </h4>
+
+<h3>Pushing work to a specific branch</h3>
+<h4>git push origin branch-name </h4>
+
+<h3>Cloning a specific branch</h3>
+<h4>git clone -b branch-name link_to_repo_here </h4>
+
+<h3>Looking at the difference between two git branches</h3>
+<h4>git diff source_branch target_branch</h4>
+
+<h2>Pushed code that doesn't work but a commit just before your code did work?</h2>
+<p>We can use git revert to revert our code back to a specific commit we made</p>
+
+[Information found here](https://rogerdudler.github.io/git-guide/)
+
+
