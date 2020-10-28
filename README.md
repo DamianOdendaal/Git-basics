@@ -26,10 +26,10 @@ teaching the peeps how git works
 <li>Have content created that you would like to add to your repo</li>
 <li>add content using git add</li>
 </ol>
-<h4>Example</4><br/>
+<h4>Example</4>
 
-git add <filename>  (this adds a specific file and/or directory)
-git add * or git add -A (this adds everything inside the directory)
+<h5>git add <filename>  (this adds a specific file and/or directory)</h5>
+<h5>git add * or git add -A (this adds everything inside the directory)</h5>
 
 
 ·   Adds content from all *.txt files under Documentation directory and its subdirectories:
