@@ -32,5 +32,15 @@ teaching the peeps how git works
 <h5>git add * or git add -A (this adds everything inside the directory)</h5>
 
 
-<h4>Adds content from all *.txt files under Documentation directory and its subdirectories:</h4.>
+<h3>Adds content from all *.txt files under Documentation directory and its subdirectories:</h3>
                <h5>$ git add some-pushed-files-some-not/\*.txt</h5>
+
+<h2>Committing the work we have just added, and adding a message to know what we committed. </h2>
+<p><u>A good practice is to have commit messages that will describe where we are or what we just got finished in a project</u></p>
+
+<h4>Recording changes using git commit</h4>
+<h4>Example:</h4>
+
+<h5>git commit -m "descriptive message here about commit"</h5>
+<h5>When we use git commit here we add the -m flag which says we can add a commit message</h5>
+<h5>When we use git commit here we can also add the -a flag which will tell the command to automatically stage all changes</h5>
