@@ -17,8 +17,8 @@ teaching the peeps how git works
 <h4>git clone path/to/repository YourOwnFancyNameHere</h4>
 </ol>
 
-<h2>Now that we have a repository we can do some interesting things with it like add content.  Work as a group on one repository. Revert back to specific commits if you made a mistake and pushed the mistake.
-</h2>
+<h3>Now that we have a repository we can do some interesting things with it like add content.  Work as a group on one repository. Revert back to specific commits if you made a mistake and pushed the mistake.
+</h3>
 
 <h3>Adding work to a github repository</h3>
 
